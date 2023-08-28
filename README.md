@@ -15,15 +15,15 @@ Feel free to upload any cool/relevant examples under the title 'BonusExample_Sho
 09-18-23: Data normalization & Alpha diversity stats\
 09-25-23: Hill numbers\
 10-02-23: \
-10-09-23: No class\  
-10-16-23: Metrics & ordinations\  
-10-23-23: VarPart, BetaPart\  
-10-30-23: Mantel Tests, Procrustes\  
-11-06-23: Dominance Structures\  
-11-13-23: dbMEMs\  
-11-20-23: CSU holiday (optional)\  
-11-27-23: Temporal autocorrelation\  
-12-04-23: Phylogenetic autocorrelation\  
+10-09-23: No class\
+10-16-23: Metrics & ordinations\
+10-23-23: VarPart, BetaPart\
+10-30-23: Mantel Tests, Procrustes\
+11-06-23: Dominance Structures\
+11-13-23: dbMEMs\
+11-20-23: CSU holiday (optional)\
+11-27-23: Temporal autocorrelation\
+12-04-23: Phylogenetic autocorrelation\
 
 
 
