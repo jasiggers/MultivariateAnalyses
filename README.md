@@ -12,9 +12,9 @@ Feel free to upload any cool/relevant examples under the title 'BonusExample_Sho
 
 # Schedule
 09-11-23: Matrices & Data types (Guest lecture by Steve Brewer)\
-09-18-23: Data normalization & Alpha diversity stats\
-09-25-23: Hill numbers\
-10-02-23: \
+09-18-23: Data normalization\
+09-25-23: Alpha diversity stats\
+10-02-23: Hill numbers\
 10-09-23: No class\
 10-16-23: Metrics & ordinations\
 10-23-23: VarPart, BetaPart\
